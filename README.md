@@ -4,7 +4,7 @@ Multiple linear regression (MLR), also known simply as multiple regression, is a
 
 ## Multiple linear regression examples.
 
-### Example 1: Multiple linear regression on Prostate database available in faraway library in R environment.
+### Example 1: Multiple linear regression on Prostate database (faraway library in R environment).
              * Descriptive statistics;
              * Scatter plot;
              * Correlation;
