@@ -1,7 +1,6 @@
 ---
-title: <span style="color:blue"> UFRPE/DEINFO/PPGBEA <br/> Laboratório -- Regressão Linear Múltipla </span>
-author: "Disciplina: MLG <br/> Docente: Prof. Dr. Josimar M. de Vasconcelos <br/> Discentes: Jaine Moura e Gleyce Alves"
-date: "13/10/2021"
+title: Regressão Linear Múltipla
+author: "Gleyce Alves"
 header-includes:
  - \usepackage{amsthm, amssymb}
  
